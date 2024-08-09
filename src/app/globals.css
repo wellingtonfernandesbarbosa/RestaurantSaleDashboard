@@ -5,14 +5,20 @@
   margin: 0;
   list-style-type: none;
 
-  --button-color-light: #F2F2F2;
-  --button-color-dark: #272727;
+  --button-color-light: #E0E0E0;
+  /* Ajuste para um tom mais suave */
+  --button-color-dark: #1E1E1E;
+  /* Um tom escuro que não seja totalmente preto */
 
-  --text-color-light: #0F0F0F;
-  --text-color-dark: #F1F1F1;
+  --text-color-light: #202020;
+  /* Preto suave para melhor legibilidade */
+  --text-color-dark: #EDEDED;
+  /* Branco suave para melhor legibilidade */
 
-  --background-color-light: #FFFFFF;
-  --background-color-dark: #0F0F0F;
+  --background-color-light: #FAFAFA;
+  /* Fundo claro com menos intensidade */
+  --background-color-dark: #121212;
+  /* Fundo escuro com melhor conforto visual */
 
   --max-width: 1280px;
 }
